@@ -30,8 +30,8 @@ menu:
   categories: /categories
   archives: /archives
   tags: /tags
-  about: /about
-  commonweal: /404.html
+  #about: /about
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -57,9 +57,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 
@@ -69,9 +69,9 @@ scheme: Muse
 
 
 # Social links
-social:
-  GitHub: https://github.com/EpsilonX
-  Weibo: http://weibo.com/shadowwind
+#social:
+#  GitHub: https://github.com/EpsilonX
+#  Weibo: http://weibo.com/shadowwind
 
 # Social Icons
 social_icons:
@@ -105,8 +105,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.

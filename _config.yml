@@ -74,13 +74,23 @@ deploy:
 
 #duoshuo
 duoshuo_shortname: epsilonx
-duoshuo_share: true
+#duoshuo_share: true
+
+#JiaThis
+jiathis: true
 
 #start time of this website
 since: 2016
 
+#social links
+social:
+  GitHub: https://github.com/EpsilonX
+  Weibo: http://weibo.com/shadowwind
+  Zhihu: https://www.zhihu.com/people/jeffreyliu
+  Douban: http://www.douban.com/people/shadowwind
+
 # title, chinese available
-links_title: Links
+links_title: 友情链接
 # # links
 links:
   Titanxxh: http://titanxxh.com
