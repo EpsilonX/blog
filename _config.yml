@@ -74,6 +74,7 @@ deploy:
 
 #duoshuo
 duoshuo_shortname: epsilonx
+duoshuo_share: true
 
 #start time of this website
 since: 2016
