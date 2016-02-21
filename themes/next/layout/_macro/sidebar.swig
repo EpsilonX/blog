@@ -102,6 +102,11 @@
           {% endif %}
         </div>
 
+        <!-- add weibo content -->
+        <br/>
+        <p class="site-author-name"> 我的微博 </p>
+        <iframe id="sina_widget_1682740824" style="width:100%; height:500px;" frameborder="0" scrolling="no" src="http://v.t.sina.com.cn/widget/widget_blog.php?uid=1682740824&height=500&skin=wd_01&showpic=1"></iframe>
+
       </section>
 
       {% if display_toc %}
