@@ -44,7 +44,7 @@ unsigned int abc_png_len = 1541;
 
 调用方法如下:
 
-```objective-c
+```objc
 #import "abc.h"
 ...
 NSData *imgData = [NSData dataWithBytesNoCopy:abc_png length:abc_png_len freeWhenDone:NO];
